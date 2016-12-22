@@ -2,4 +2,4 @@
 
 <h2 align="center">http://nebulab.io</h2>
 
-#### Download the [latest release here](https://github.com/nebulab-io/nebulab-desktop/releases/latest).
+#### Download the [latest release here](https://github.com/nebulab-io/desktop-app/releases/latest).
